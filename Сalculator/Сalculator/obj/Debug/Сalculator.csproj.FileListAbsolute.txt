@@ -1,0 +1,10 @@
+D:\reserv\lesson3\Сalculator\Сalculator\bin\Debug\Сalculator.exe.config
+D:\reserv\lesson3\Сalculator\Сalculator\bin\Debug\Сalculator.exe
+D:\reserv\lesson3\Сalculator\Сalculator\bin\Debug\Сalculator.pdb
+D:\reserv\lesson3\Сalculator\Сalculator\obj\Debug\Сalculator.csproj.AssemblyReference.cache
+D:\reserv\lesson3\Сalculator\Сalculator\obj\Debug\Сalculator.Form1.resources
+D:\reserv\lesson3\Сalculator\Сalculator\obj\Debug\Сalculator.Properties.Resources.resources
+D:\reserv\lesson3\Сalculator\Сalculator\obj\Debug\Сalculator.csproj.GenerateResource.cache
+D:\reserv\lesson3\Сalculator\Сalculator\obj\Debug\Сalculator.csproj.CoreCompileInputs.cache
+D:\reserv\lesson3\Сalculator\Сalculator\obj\Debug\Сalculator.exe
+D:\reserv\lesson3\Сalculator\Сalculator\obj\Debug\Сalculator.pdb
